@@ -1,0 +1,10 @@
+* git init
+* npm init -y   
+* npm install webpack webpack-cli -D    
+* npx webpack --mode production --config webpack.config.js    
+* npm install babel-loader @babel/core @babel/preset-env @babel/plugin-transform-runtime -D
+* npm install html-webpack-plugin -D
+* npm run build   "build": "webpack --mode production"
+* npm run dev     "dev": "webpack --mode development"
+* npm install mini-css-extract-plugin css-loader -D
+* npm install stylus stylus-loader -D
