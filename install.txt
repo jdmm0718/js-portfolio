@@ -8,3 +8,4 @@
 * npm run dev     "dev": "webpack --mode development"
 * npm install mini-css-extract-plugin css-loader -D
 * npm install stylus stylus-loader -D
+* npm install copy-webpack-plugin -D
